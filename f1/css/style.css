@@ -1,0 +1,77 @@
+#first{
+    text-align: center;
+    padding: 5px; 
+    vertical-align: center;
+    border: 1px solid #000000;
+    width: 180px;
+    background-color: rgba(255, 255, 255, 0.514);
+    border-radius: 0px;
+    
+}
+th{
+    text-align: center;
+    padding: 5px; 
+    vertical-align: center;
+    border: 1px solid #000000;
+    width: 80px;
+    background-color: rgba(255, 255, 255, 0.514);
+    border-radius: 0px;
+}
+td{
+    text-align: center;
+    padding: 5px; 
+    vertical-align: center;
+    border: 1px solid #000000;
+    width: 80px;
+    background-color: rgba(255, 255, 255, 0.514);
+    border-radius: 0px;
+}
+
+table.firstTable{ 
+    margin: auto;
+    
+}
+
+input{
+    text-align: center;
+    border: 0;
+    position: relative;
+    background: transparent;
+    border-bottom: 2px solid rgba(255, 255, 255, 0);
+    width: 100%;
+    
+    
+}
+input:focus{
+    border:none;	
+    outline:none;
+    border-bottom:2px solid #1583dd;
+    
+}
+
+.linee{
+    display: inline;
+}
+
+.moon{
+text-align: center;
+}
+
+.datam{
+    width: 150px;
+    
+}
+
+.form-select{
+    width: 150px;
+    margin: auto;
+}
+
+.submit{
+    width: 200px;
+    text-align: center;
+}
+.darkmessage {
+    display: none;
+  }
+
